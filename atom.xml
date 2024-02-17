@@ -55,9 +55,9 @@
     <category term="侦探小说" scheme="http://example.com/categories/%E4%BE%A6%E6%8E%A2%E5%B0%8F%E8%AF%B4/"/>
     
     
-    <category term="推理" scheme="http://example.com/tags/%E6%8E%A8%E7%90%86/"/>
-    
     <category term="悬疑" scheme="http://example.com/tags/%E6%82%AC%E7%96%91/"/>
+    
+    <category term="推理" scheme="http://example.com/tags/%E6%8E%A8%E7%90%86/"/>
     
   </entry>
   
