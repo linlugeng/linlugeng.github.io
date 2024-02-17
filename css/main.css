@@ -1169,7 +1169,7 @@ pre .javascript .function {
 }
 .links-of-author a::before,
 .links-of-author span.exturl::before {
-  background: #c4ff41;
+  background: #90a4ff;
   border-radius: 50%;
   content: ' ';
   display: inline-block;
@@ -2593,4 +2593,10 @@ body {
   background-repeat: no-repeat;
   background-attachment: fixed;
   background-position: 50% 50%;
+}
+body {
+  cursor: url("https://cdn.jsdelivr.net/gh/kaix2301/pictures/img202201071208706.cur"), auto;
+}
+a {
+  cursor: url("https://cdn.jsdelivr.net/gh/kaix2301/pictures/img202201071205091.cur"), auto !important;
 }
